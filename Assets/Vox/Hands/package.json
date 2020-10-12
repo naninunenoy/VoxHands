@@ -1,0 +1,9 @@
+{
+    "name": "dev.hiroki-o.voxhands",
+    "displayName": "VoxHands",
+    "version": "0.0.1",
+    "unity": "2019.3",
+    "description": "A Hand/Finger Controller plugin for Unity.",
+    "keywords": ["humanoid", "hand", "finger"],
+    "author" : { "name": "Hiroki Omae" }
+}
