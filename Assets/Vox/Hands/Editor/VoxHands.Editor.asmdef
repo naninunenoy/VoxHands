@@ -1,7 +1,7 @@
 {
     "name": "VoxHands.Editor",
     "references": [
-        "GUID:58a9c027e9090c2449ade04a0e659b96"
+        "VoxHands"
     ],
     "includePlatforms": [
         "Editor"
